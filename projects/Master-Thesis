@@ -1,1 +1,22 @@
+# Interventional Catheter Segmentation
+## Project Overview
+This project focused on developing a deep learning model, DSCNet, to improve catheter segmentation in endovascular surgery.
+
+## Key Details
+- **Objective:** Enhance catheter manipulation accuracy in surgeries.
+- **Tools:** Python, TensorFlow, DSCNet.
+- **Achievements:** IoU of 0.94, 98% accuracy.
+
+## Workflow
+1. **Problem Definition:** Segmenting catheters in medical images.
+2. **Data Preparation:** Cleaning, normalizing, and augmenting datasets.
+3. **Model Development:** Implemented DSCNet to handle segmentation tasks.
+4. **Results:** Achieved superior accuracy compared to existing models.
+
+## Visuals
+![Model Architecture](../images/dscnet_architecture.png)
+![Sample Output](../images/thesis_output.png)
+
+## Full Report
+[View the Full Report (PDF)](../files/thesis-report.pdf)
 
