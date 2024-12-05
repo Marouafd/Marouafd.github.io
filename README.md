@@ -53,5 +53,5 @@ Example output:
 
 ## Project Poster
 
-[View the Poster (PDF)](Results/poster3.pdf)
+[View the Poster (PDF)](poster/poster3.pdf)
 
