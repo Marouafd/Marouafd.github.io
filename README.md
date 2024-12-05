@@ -49,5 +49,7 @@ Detailed visualizations, including model architecture and segmentation results.
 
 Example output: 
 ![Sample Output](images/image.png)
+![Sample Output](images/Screenshot 2024-12-05 122638.png).
+
 
 
