@@ -53,6 +53,6 @@ Example output:
 
 ## Project Poster
 
-[View the Poster (PDF)](poster/poster3.pdf)
-[Download the Full Poster (PDF)](poster/poster3.pdf)
+[View the Poster (PDF)](poster/Poster3.pdf)
+[Download the Full Poster (PDF)](poster/Poster3.pdf)
 
