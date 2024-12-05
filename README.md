@@ -48,4 +48,6 @@ Complexity of Datasets: Developed preprocessing pipelines to handle noisy and lo
 Detailed visualizations, including model architecture and segmentation results.
 
 Example output: 
+![Sample Output](images/image.png)
+
 
