@@ -51,5 +51,7 @@ Example output:
 ![Sample Output](images/image.png)
 ![Sample Output](images/image2.png).
 
+## Project Poster
 
+[View the Poster (PDF)](Results/poster3.pdf)
 
